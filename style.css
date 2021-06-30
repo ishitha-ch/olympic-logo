@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(turquoise,teal,turquoise);
+}
+#my_canvas {
+    background-color: white;
+    border: ridge;
+}
+#blu { color: blue;
+
+}
+
+#r {
+    color: red;
+}
+
+#y {
+    color: gold;
+}
+
+#g {
+    color: yellowgreen;
+}
+
+h4 {
+    font-size:18px;
+}
